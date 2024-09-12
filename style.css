@@ -2,8 +2,8 @@
 
 :root {
 
-    --cor-de-fundo: black;
-    --cor-principal: rgb(119, 91, 38);
+    --cor-de-fundo: #000000;
+    --cor-principal: brown;
     --cor-secundaria: #77E4C8;
     --fonte: "Sofadi One", system-ui;
     --cor-barra: rgb(145, 91, 20);

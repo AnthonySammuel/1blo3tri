@@ -6,7 +6,7 @@
     --cor-principal: rgb(85, 67, 40);
     --cor-secundaria: #f5f5f5;
     --fonte: "Sofadi One", system-ui;
-    --cor-barra: rgb(151, 7, 7);
+    --cor-barra: rgba(70, 28, 28, 0.719);
 }
 
 body {

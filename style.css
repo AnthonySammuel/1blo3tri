@@ -10,7 +10,7 @@
 }
 
 body {
-    background-color: white;
+    background-color: var(--cor-de-fundo);
     color: white;
     font-family: var(--fonte);
     height: 100vh;
@@ -37,7 +37,7 @@ nav {
 
 nav a {
     text-decoration: none;
-    color: var(--cor-de-fundo);
+    color: white;
     margin: 0 2rem 1rem 0rem;
     font-size: 1.2 rem;
 }

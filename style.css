@@ -3,7 +3,7 @@
 :root {
 
     --cor-de-fundo: #000000;
-    --cor-principal: brown;
+    --cor-principal: rgb(95, 31, 31);
     --cor-secundaria: #77E4C8;
     --fonte: "Sofadi One", system-ui;
     --cor-barra: rgb(145, 91, 20);
